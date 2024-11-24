@@ -22,9 +22,4 @@ Hi 👋! My name is Subhabrata<br><br>I'm a passionate developer having interest
 ![](https://github-contributor-stats.vercel.app/api?username=Subhabrata0010&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  <a href="https://www.facebook.com/ado.mondal.5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
 ###
