@@ -1,5 +1,26 @@
 # 💫 About Me:
-Hi 👋! My name is Subhabrata<br><br>I'm a passionate developer having interests in web development, ML technologies and Iot 🐒
+🌟 Tech Enthusiast Extraordinaire
+
+On a journey to craft innovative solutions with code, caffeine ☕, and curiosity.
+💻 Web Developer & Machine Learning Explorer
+
+Building responsive web apps and diving deep into data to create intelligent solutions 🌐🤖.
+🚀 IoT Enthusiast
+
+Turning “things” into smart things—because why settle for ordinary devices when they can talk to each other? 🌈📡
+🛠️ MERN Stack Learner
+
+Currently mastering the art of MongoDB, Express.js, React.js, and Node.js to conquer full-stack development 🧩.
+🎯 Goal-Oriented Innovator
+
+Crafting solutions that not only work but wow—because good enough is never enough 💡🔥.
+🧠 Lifelong Learner
+
+Always in beta mode 🔄—embracing growth in tech and beyond 📚.
+🤣 Quirky but Focused
+
+Thinks "Ctrl + Z" should exist for life decisions and sometimes "Googles" code like a pro 💁‍♂️📱.
+Let's make technology smarter, better, and more fun together! 🚀🎉
 
 
 ## 🌐 Socials:
