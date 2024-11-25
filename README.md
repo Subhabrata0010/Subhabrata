@@ -1,18 +1,14 @@
 # 💫 About Me:
-### 🌟 Tech Enthusiast Extraordinaire
+#### 🌟 Tech Enthusiast Extraordinaire
 On a journey to craft innovative solutions with code, caffeine ☕, and curiosity.
-###  💻 Web Developer & Machine Learning Explorer
+####  💻 Web Developer & Machine Learning Explorer
   Building responsive web apps and diving deep into data to create intelligent solutions 🌐🤖.
-### 🚀 IoT Enthusiast
-
+#### 🚀 IoT Enthusiast
 Turning “things” into smart things—because why settle for ordinary devices when they can talk to each other? 🌈📡
-### 🛠️ MERN Stack Learner
-
+#### 🛠️ MERN Stack Learner
 Currently mastering the art of MongoDB, Express.js, React.js, and Node.js to conquer full-stack development 🧩
-### 🤣 Quirky but Focused
-
+#### 🤣 Quirky but Focused
 Thinks "Ctrl + Z" should exist for life decisions and sometimes "Googles" code like a pro 💁‍♂️📱.
-
 ####    Let's make technology smarter, better, and more fun together! 🚀🎉
 
 
@@ -24,9 +20,6 @@ Thinks "Ctrl + Z" should exist for life decisions and sometimes "Googles" code l
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Subhabrata0010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhabrata0010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subhabrata0010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Subhabrata0010&limit=5&theme=radical&combine_all_yearly_contributions=true)
