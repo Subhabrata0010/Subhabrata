@@ -1,13 +1,13 @@
 # 💫 About Me:
-#### 🌟 Tech Enthusiast Extraordinaire
+### 🌟 Tech Enthusiast Extraordinaire
 On a journey to craft innovative solutions with code, caffeine ☕, and curiosity.
-####  💻 Web Developer & Machine Learning Explorer
+###  💻 Web Developer & Machine Learning Explorer
   Building responsive web apps and diving deep into data to create intelligent solutions 🌐🤖.
-#### 🚀 IoT Enthusiast
+### 🚀 IoT Enthusiast
 Turning “things” into smart things—because why settle for ordinary devices when they can talk to each other? 🌈📡
-#### 🛠️ MERN Stack Learner
+### 🛠️ MERN Stack Learner
 Currently mastering the art of MongoDB, Express.js, React.js, and Node.js to conquer full-stack development 🧩
-#### 🤣 Quirky but Focused
+### 🤣 Quirky but Focused
 Thinks "Ctrl + Z" should exist for life decisions and sometimes "Googles" code like a pro 💁‍♂️📱.
 ####    Let's make technology smarter, better, and more fun together! 🚀🎉
 
